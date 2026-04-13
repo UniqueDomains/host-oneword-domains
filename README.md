@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .host one-word domains from Unique
 
 **Public extract:** 9,289 rows · **Live catalog:** 9,289 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/host`  
 **Best for:** founders, investors, studios
 
@@ -79,10 +79,10 @@ print(df.head())
 | vivid.host      | available | $47.48    | —             | 80             | 29     | 5      | namecheap                                           |
 | ant.host        | resell    | —         | —             | 86             | 60     | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
 | ace.host        | premium   | $1,875    | $3,750        | 88             | 57     | 3      | name.com                                            |
-| actual.host     | available | $39.98    | —             | 96             | 27     | 6      | namecheap                                           |
+| curative.host   | available | $39.98    | —             | 92             | 27     | 8      | namecheap                                           |
 | free.host       | resell    | —         | —             | 88             | 59     | 4      | NAME DOT STORE INC                                  |
 | good.host       | premium   | $4,687.50 | $9,375        | 82             | 55     | 4      | name.com                                            |
-| curative.host   | available | $39.98    | —             | 92             | 27     | 8      | namecheap                                           |
+| jolly.host      | available | $47.48    | —             | 68             | 27     | 5      | namecheap                                           |
 | mail.host       | resell    | —         | —             | 76             | 59     | 4      | NAME DOT STORE INC                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOST One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOST One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
