@@ -80,10 +80,10 @@ print(df.head())
 | ant.host        | resell    | —         | —             | 86             | 60     | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
 | ace.host        | premium   | $1,875    | $3,750        | 88             | 57     | 3      | name.com                                            |
 | curative.host   | available | $39.98    | —             | 92             | 27     | 8      | namecheap                                           |
-| free.host       | resell    | —         | —             | 88             | 59     | 4      | NAME DOT STORE INC                                  |
+| mail.host       | resell    | —         | —             | 76             | 59     | 4      | NAME DOT STORE INC                                  |
 | good.host       | premium   | $4,687.50 | $9,375        | 82             | 55     | 4      | name.com                                            |
 | jolly.host      | available | $47.48    | —             | 68             | 27     | 5      | namecheap                                           |
-| mail.host       | resell    | —         | —             | 76             | 59     | 4      | NAME DOT STORE INC                                  |
+| cloud.host      | resell    | —         | —             | 70             | 59     | 5      | NAME DOT STORE INC                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
