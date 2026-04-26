@@ -1,22 +1,22 @@
-# Available .HOST One-Word Domains (9,289)
+# Available .HOST One-Word Domains (11,683)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C289%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C289%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C683%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .host one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .host one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,683 domains** on the canonical page below.
 
-**Public extract:** 9,289 rows · **Live catalog:** 9,289 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,683 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/host`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .HOST one-word domain 
 
 ### Files
 
-- `host.csv` — public CSV extract (9,289 rows)
-- `host.json` — public JSON extract (9,289 rows)
+- `host.csv` — public CSV extract (1,000 rows)
+- `host.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| seventeen.host  | available | $39.98    | —             | 84             | 62     | 9      | namecheap                                           |
-| shiny.host      | resell    | —         | —             | 90             | 98     | 5      | Namecheap                                           |
-| converse.host   | premium   | $312.50   | $625          | 64             | 73     | 8      | name.com                                            |
-| athletics.host  | available | $39.98    | —             | 69             | 52     | 9      | namecheap                                           |
-| news.host       | resell    | —         | —             | 82             | 64     | 4      | NAME DOT STORE INC                                  |
-| easy.host       | premium   | $3,125    | $6,250        | 128            | 68     | 4      | name.com                                            |
-| conscious.host  | available | $39.98    | —             | 89             | 38     | 9      | namecheap                                           |
-| domain.host     | resell    | —         | —             | 80             | 64     | 6      | NAME DOT STORE INC                                  |
-| nationwide.host | premium   | $625      | $1,250        | 76             | 66     | 10     | name.com                                            |
-| goon.host       | available | $39.98    | —             | 80             | 35     | 5      | namecheap                                           |
-| web.host        | resell    | —         | —             | 72             | 61     | 3      | NAME DOT STORE INC                                  |
-| power.host      | premium   | $4,875    | $9,750        | 98             | 62     | 5      | namecheap                                           |
-| vivid.host      | available | $47.48    | —             | 80             | 29     | 5      | namecheap                                           |
-| ant.host        | resell    | —         | —             | 86             | 60     | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| ace.host        | premium   | $1,875    | $3,750        | 88             | 57     | 3      | name.com                                            |
-| curative.host   | available | $39.98    | —             | 92             | 27     | 8      | namecheap                                           |
-| mail.host       | resell    | —         | —             | 76             | 59     | 4      | NAME DOT STORE INC                                  |
-| good.host       | premium   | $4,687.50 | $9,375        | 82             | 55     | 4      | name.com                                            |
-| jolly.host      | available | $47.48    | —             | 68             | 27     | 5      | namecheap                                           |
-| cloud.host      | resell    | —         | —             | 70             | 59     | 5      | NAME DOT STORE INC                                  |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| inspiration.host | available | $47.48    | —             | 88             | 30     | 11     | namecheap                                           |
+| Your.host        | resell    | —         | —             | 68             | 45     | 4      | NAME DOT STORE INC                                  |
+| winners.host     | premium   | $625      | —             | 60             | 81     | 7      | name.com                                            |
+| Trex.host        | available | $47.48    | —             | 80             | 24     | 5      | namecheap                                           |
+| virtual.host     | resell    | —         | —             | 80             | 42     | 7      | NAME DOT STORE INC                                  |
+| nets.host        | premium   | $312.50   | —             | 54             | 81     | 4      | name.com                                            |
+| echoes.host      | available | $4.99     | $109.99       | 56             | 24     | 6      | namesilo                                            |
+| west.host        | resell    | —         | —             | 65             | 30     | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| robots.host      | premium   | $312.50   | —             | 62             | 47     | 6      | name.com                                            |
+| rekt.host        | available | $47.48    | —             | 40             | 24     | 4      | namecheap                                           |
+| Ryan.host        | premium   | $350      | $700          | 60             | 44     | 4      | namecheap                                           |
+| feet.host        | available | $47.48    | —             | 88             | 22     | 4      | namecheap                                           |
+| lets.host        | premium   | $1,875    | —             | 77             | 39     | 4      | name.com                                            |
+| stadia.host      | available | $47.48    | —             | 66             | 22     | 6      | namecheap                                           |
+| tickets.host     | premium   | $1,875    | —             | 64             | 34     | 7      | name.com                                            |
+| brothers.host    | available | $47.48    | —             | 60             | 22     | 8      | namecheap                                           |
+| etc.host         | premium   | $1,875    | —             | 58             | 34     | 3      | name.com                                            |
+| grassroots.host  | available | $47.48    | —             | 70             | 21     | 11     | namecheap                                           |
+| spaces.host      | premium   | $3,125    | —             | 54             | 30     | 6      | name.com                                            |
+| generations.host | available | $47.48    | —             | 56             | 20     | 11     | namecheap                                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,289-row public sample | 9,289 live domains                               |
+| 1,000-row public sample | 11,683 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOST One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOST One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
