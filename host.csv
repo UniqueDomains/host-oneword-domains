@@ -418,6 +418,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 239bf088-269a-466f-ab70-900f99e20fa9,suggestions.host,available,47.48,,56,5,11,namecheap,,
 23b3f91f-ad0a-4f67-b065-7101065d7fce,breakfastcereal.host,available,47.48,,72,2,16,namecheap,,
 23c60be9-369e-4506-9cd9-d1dd2b7c99fe,twentyseven.host,available,47.48,,65,7,12,namecheap,,
+23c86aca-fb9b-45a9-bcfc-e84236bc9a7e,essence.host,premium,,,72,26,7,,,
 23cc0bb0-37a0-4437-b77b-dc7a356f941f,dropaline.host,available,47.48,,64,2,11,namecheap,,
 2403f496-59d0-4a78-961e-84b3eaef039b,Tests.host,premium,350,700,49,21,5,namecheap,,
 24461632-04b9-434b-b615-2ebe44da9b6e,distinctions.host,available,4.99,109.99,62,3,12,namesilo,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 575d1fb4-4007-454c-820e-635721be1f23,organdonation.host,available,47.48,,72,2,14,namecheap,,
 5766de7e-c188-4510-a3bf-cb358143b0e3,commontime.host,available,47.48,,68,4,11,namecheap,,
 57722615-b58a-4e2f-9cb2-aa33ab60a453,vowels.host,available,4.99,109.99,52,5,6,namesilo,,
-5793b8f7-5cec-4f0d-ad67-cdfd8a60b622,setthestage.host,available,47.48,,66,3,13,namecheap,,

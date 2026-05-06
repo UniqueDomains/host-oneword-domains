@@ -1,10 +1,10 @@
-# Available .HOST One-Word Domains (12,223)
+# Available .HOST One-Word Domains (12,227)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C223%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C227%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .host one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,223 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,227 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,223 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,227 domains · **Median ask:** $225.70 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/host`  
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar          |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------ |
+| feet.host        | available | $47.48    | —             | 88             | 22     | 4      | namecheap          |
+| Trex.host        | available | $47.48    | —             | 80             | 24     | 5      | namecheap          |
+| finals.host      | available | $4.99     | $109.99       | 80             | 7      | 6      | namesilo           |
+| useit.host       | available | $47.48    | —             | 94             | 7      | 6      | namecheap          |
+| dogsit.host      | available | $47.48    | —             | 96             | 2      | 6      | namecheap          |
+| gearup.host      | available | $47.48    | —             | 80             | 16     | 7      | namecheap          |
+| QandA.host       | available | $47.48    | —             | 80             | 10     | 7      | namecheap          |
+| pierogi.host     | available | $47.48    | —             | 82             | 7      | 7      | namecheap          |
+| dogsick.host     | available | $47.48    | —             | 90             | 1      | 7      | namecheap          |
+| leaveon.host     | available | $47.48    | —             | 80             | 1      | 8      | namecheap          |
+| presents.host    | available | $47.48    | —             | 80             | 9      | 8      | namecheap          |
+| beawake.host     | available | $47.48    | —             | 84             | 3      | 8      | namecheap          |
 | inspiration.host | available | $47.48    | —             | 88             | 30     | 11     | namecheap          |
 | Your.host        | resell    | —         | —             | 68             | 45     | 4      | NAME DOT STORE INC |
 | hotels.host      | premium   | $4,687.50 | —             | 64             | 82     | 6      | name.com           |
-| Trex.host        | available | $47.48    | —             | 80             | 24     | 5      | namecheap          |
 | virtual.host     | resell    | —         | —             | 80             | 42     | 7      | NAME DOT STORE INC |
 | winners.host     | premium   | $625      | —             | 60             | 81     | 7      | name.com           |
 | echoes.host      | available | $4.99     | $109.99       | 56             | 24     | 6      | namesilo           |
 | nets.host        | premium   | $312.50   | —             | 54             | 81     | 4      | name.com           |
 | rekt.host        | available | $47.48    | —             | 40             | 24     | 4      | namecheap          |
-| Ryan.host        | premium   | $350      | $700          | 60             | 44     | 4      | namecheap          |
-| feet.host        | available | $47.48    | —             | 88             | 22     | 4      | namecheap          |
-| lets.host        | premium   | $1,875    | —             | 77             | 39     | 4      | name.com           |
-| stadia.host      | available | $47.48    | —             | 66             | 22     | 6      | namecheap          |
-| tickets.host     | premium   | $1,875    | —             | 64             | 34     | 7      | name.com           |
-| brothers.host    | available | $47.48    | —             | 60             | 22     | 8      | namecheap          |
-| etc.host         | premium   | $1,875    | —             | 58             | 34     | 3      | name.com           |
-| generations.host | available | $47.48    | —             | 56             | 20     | 11     | namecheap          |
-| slots.host       | premium   | $1,875    | —             | 49             | 31     | 5      | name.com           |
-| knows.host       | available | $47.48    | —             | 48             | 20     | 5      | namecheap          |
-| spaces.host      | premium   | $3,125    | —             | 54             | 30     | 6      | name.com           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,223 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,227 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+These domains are all one-word names on the .host extension. The set includes direct dictionary-style words and short coined forms such as feet.host, finals.host, jewels.host, Trex.host, and Acup.host. For founders, the main question is whether the word is memorable, easy to say, and credible on .host. For investors, the key is whether the ask leaves enough room for a resale case relative to the extension’s likely buyer pool. With a median ask of 225.70, many names may look accessible, but the better picks are the ones where the word and extension work together clearly and the renewal profile still makes sense.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Check whether the word fits the .host extension naturally
+- Favor names that are easy to say, spell, and recall
+- Use the 225.70 median ask as a price reality check
+- Screen for trademark risk before treating a name as ownable
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOST One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOST One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
