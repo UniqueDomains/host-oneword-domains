@@ -77,7 +77,7 @@ print(df.head())
 | presents.host    | available | $47.48    | —             | 80             | 9      | 8      | namecheap          |
 | beawake.host     | available | $47.48    | —             | 84             | 3      | 8      | namecheap          |
 | inspiration.host | available | $47.48    | —             | 88             | 30     | 11     | namecheap          |
-| Your.host        | resell    | —         | —             | 68             | 45     | 4      | NAME DOT STORE INC |
+| Your.host        | resell    | —         | —             | 68             | 59     | 4      | Namify Domains Inc |
 | hotels.host      | premium   | $4,687.50 | —             | 64             | 82     | 6      | name.com           |
 | virtual.host     | resell    | —         | —             | 80             | 42     | 7      | NAME DOT STORE INC |
 | winners.host     | premium   | $625      | —             | 60             | 81     | 7      | name.com           |
