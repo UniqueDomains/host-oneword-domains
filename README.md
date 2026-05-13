@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .host one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,228 domains · **Median ask:** $225.70 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-11  
+**Last updated:** 2026-05-13  
 **Canonical page:** `https://unique.domains/domains/tld/host`  
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,7 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar          |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------ |
-| feet.host        | available | $47.48    | —             | 88             | 22     | 4      | namecheap          |
+| feet.host        | available | $47.48    | —             | 88             | 23     | 4      | namecheap          |
 | Trex.host        | available | $47.48    | —             | 80             | 24     | 5      | namecheap          |
 | finals.host      | available | $4.99     | $109.99       | 80             | 7      | 6      | namesilo           |
 | useit.host       | available | $47.48    | —             | 94             | 7      | 6      | namecheap          |
@@ -79,7 +79,7 @@ print(df.head())
 | inspiration.host | available | $47.48    | —             | 88             | 30     | 11     | namecheap          |
 | Your.host        | resell    | —         | —             | 68             | 59     | 4      | Namify Domains Inc |
 | hotels.host      | premium   | $4,687.50 | —             | 64             | 82     | 6      | name.com           |
-| virtual.host     | resell    | —         | —             | 80             | 42     | 7      | NAME DOT STORE INC |
+| virtual.host     | resell    | —         | —             | 80             | 43     | 7      | Namify Domains Inc |
 | winners.host     | premium   | $625      | —             | 60             | 81     | 7      | name.com           |
 | echoes.host      | available | $4.99     | $109.99       | 56             | 24     | 6      | namesilo           |
 | nets.host        | premium   | $312.50   | —             | 54             | 81     | 4      | name.com           |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOST One-Word Domains*. Version 2026-05-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOST One-Word Domains*. Version 2026-05-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
