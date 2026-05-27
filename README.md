@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .host one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,229 domains · **Median ask:** $225.70 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/host`  
 **Best for:** founders, investors, studios
 
@@ -76,7 +76,7 @@ print(df.head())
 | leaveon.host     | available | $47.48    | —             | 80             | 1      | 8      | namecheap          |
 | presents.host    | available | $47.48    | —             | 80             | 9      | 8      | namecheap          |
 | beawake.host     | available | $47.48    | —             | 84             | 3      | 8      | namecheap          |
-| inspiration.host | available | $47.48    | —             | 88             | 30     | 11     | namecheap          |
+| inspiration.host | available | $47.48    | —             | 88             | 27     | 11     | namecheap          |
 | Your.host        | resell    | —         | —             | 68             | 59     | 4      | Namify Domains Inc |
 | hotels.host      | premium   | $4,687.50 | —             | 64             | 82     | 6      | name.com           |
 | virtual.host     | resell    | —         | —             | 80             | 43     | 7      | Namify Domains Inc |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOST One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOST One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
