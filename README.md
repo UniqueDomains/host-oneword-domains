@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .host one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,229 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,229 domains · **Median ask:** $225.70 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,229 domains · **Median ask:** $271.36 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/host`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/host`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .HOST one-word domain 
 
 ### Files
 
-- `host.csv` — public CSV extract (1,000 rows)
-- `host.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `host.csv`, public CSV extract (1,000 rows)
+- `host.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar          |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------ |
-| feet.host        | available | $47.48    | —             | 88             | 23     | 4      | namecheap          |
-| Trex.host        | available | $47.48    | —             | 80             | 24     | 5      | namecheap          |
-| finals.host      | available | $4.99     | $109.99       | 80             | 7      | 6      | namesilo           |
-| useit.host       | available | $47.48    | —             | 94             | 7      | 6      | namecheap          |
-| dogsit.host      | available | $47.48    | —             | 96             | 2      | 6      | namecheap          |
-| gearup.host      | available | $47.48    | —             | 80             | 16     | 7      | namecheap          |
-| QandA.host       | available | $47.48    | —             | 80             | 10     | 7      | namecheap          |
-| pierogi.host     | available | $47.48    | —             | 82             | 7      | 7      | namecheap          |
-| dogsick.host     | available | $47.48    | —             | 90             | 1      | 7      | namecheap          |
-| leaveon.host     | available | $47.48    | —             | 80             | 1      | 8      | namecheap          |
-| presents.host    | available | $47.48    | —             | 80             | 9      | 8      | namecheap          |
-| beawake.host     | available | $47.48    | —             | 84             | 3      | 8      | namecheap          |
-| inspiration.host | available | $47.48    | —             | 88             | 27     | 11     | namecheap          |
-| Your.host        | resell    | —         | —             | 68             | 59     | 4      | Namify Domains Inc |
-| hotels.host      | premium   | $4,687.50 | —             | 64             | 82     | 6      | name.com           |
-| virtual.host     | resell    | —         | —             | 80             | 43     | 7      | Namify Domains Inc |
-| winners.host     | premium   | $625      | —             | 60             | 81     | 7      | name.com           |
-| echoes.host      | available | $4.99     | $109.99       | 56             | 24     | 6      | namesilo           |
-| nets.host        | premium   | $312.50   | —             | 54             | 81     | 4      | name.com           |
-| rekt.host        | available | $47.48    | —             | 40             | 24     | 4      | namecheap          |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| Audi.host  | available | $47.48    | —             | high           | high   | 4      | namecheap                                           |
+| opal.host  | resell    | $47.48    | —             | medium         | low    | 4      | DNSPod, Inc.                                        |
+| aaa.host   | premium   | $4,875    | $9,750        | high           | medium | 3      | namecheap                                           |
+| avon.host  | available | $4.99     | $109.99       | high           | low    | 4      | namesilo                                            |
+| fast.host  | resell    | —         | —             | high           | medium | 4      | Namify Domains Inc                                  |
+| ace.host   | premium   | $1,875    | $3,750        | high           | medium | 3      | name.com                                            |
+| flew.host  | available | $4.99     | $109.99       | high           | low    | 4      | namesilo                                            |
+| safe.host  | resell    | —         | —             | high           | medium | 4      | Namify Domains Inc                                  |
+| add.host   | premium   | $1,875    | —             | high           | low    | 3      | name.com                                            |
+| fond.host  | available | $4.99     | $109.99       | high           | low    | 4      | namesilo                                            |
+| teal.host  | resell    | —         | —             | high           | low    | 4      | Porkbun LLC                                         |
+| art.host   | premium   | $4,875    | $9,750        | high           | medium | 3      | namecheap                                           |
+| Katy.host  | available | $47.48    | —             | high           | low    | 4      | namecheap                                           |
+| arena.host | resell    | —         | —             | high           | medium | 5      | Porkbun LLC                                         |
+| bar.host   | premium   | $4,687.50 | —             | high           | low    | 3      | name.com                                            |
+| leak.host  | available | $4.99     | $109.99       | medium         | low    | 4      | namesilo                                            |
+| cheap.host | resell    | —         | —             | high           | low    | 5      | Namify Domains Inc                                  |
+| bow.host   | premium   | $312.50   | —             | high           | low    | 3      | name.com                                            |
+| Leia.host  | available | $4.99     | $109.99       | high           | low    | 4      | namesilo                                            |
+| maths.host | resell    | —         | —             | high           | low    | 5      | Chengdu West Dimension Digital Technology Co., Ltd. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are all one-word names on the .host extension. The set includes direct dictionary-style words and short coined forms such as feet.host, finals.host, jewels.host, Trex.host, and Acup.host. For founders, the main question is whether the word is memorable, easy to say, and credible on .host. For investors, the key is whether the ask leaves enough room for a resale case relative to the extension’s likely buyer pool. With a median ask of 225.70, many names may look accessible, but the better picks are the ones where the word and extension work together clearly and the renewal profile still makes sense.
+This list of one-word .host domain names spans a wide range of themes, from short action words like 'getup.host' to compound brandables like 'gettogether.host'. With a median asking price near $271 across 12,229 names, this set gives founders and investors a broad view of pricing and naming patterns within the .host extension. Because .host signals hosting, infrastructure, and tech-adjacent projects, many of these names read as ready-to-use brand candidates rather than generic filler.
 
-- Check whether the word fits the .host extension naturally
-- Favor names that are easy to say, spell, and recall
-- Use the 225.70 median ask as a price reality check
-- Screen for trademark risk before treating a name as ownable
+- 12,229 one-word .host domain names in this set
+- Median asking price near $271 per domain
+- Mix of short, action, and compound brandable names
+- Updated daily to reflect current listings and pricing
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOST One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOST One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
