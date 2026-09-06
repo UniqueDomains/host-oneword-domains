@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .host one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,076 domains · **Median ask:** $153.11 · **High-demand under $2,500:** 44
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/host`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar          |
-| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------ |
-| yes.host   | premium   | $4,687.50 | —             | high           | medium | 3      | name.com           |
-| ague.host  | available | $9.99     | $47.48        | low            | low    | 4      | namecheap          |
-| opal.host  | resell    | $47.48    | —             | medium         | low    | 4      | DNSPod, Inc.       |
-| aaa.host   | premium   | $4,875    | $9,750        | high           | medium | 3      | namecheap          |
-| Audi.host  | available | $47.48    | —             | high           | high   | 4      | namecheap          |
-| fast.host  | resell    | —         | —             | high           | medium | 4      | Namify Domains Inc |
-| abo.host   | premium   | $312.50   | $625          | low            | low    | 3      | name.com           |
-| auld.host  | available | $4.99     | $109.99       | low            | low    | 4      | namesilo           |
-| safe.host  | resell    | —         | —             | high           | medium | 4      | Namify Domains Inc |
-| ace.host   | premium   | $1,875    | $3,750        | high           | medium | 3      | name.com           |
-| avon.host  | available | $4.99     | $109.99       | high           | low    | 4      | namesilo           |
-| teal.host  | resell    | —         | —             | high           | low    | 4      | Porkbun LLC        |
-| add.host   | premium   | $1,875    | —             | high           | low    | 3      | name.com           |
-| daft.host  | available | $4.99     | $109.99       | low            | low    | 4      | namesilo           |
-| arena.host | resell    | —         | —             | high           | medium | 5      | Porkbun LLC        |
-| art.host   | premium   | $4,875    | $9,750        | high           | medium | 3      | namecheap          |
-| flew.host  | available | $4.99     | $109.99       | high           | low    | 4      | namesilo           |
-| cheap.host | resell    | —         | —             | high           | low    | 5      | Namify Domains Inc |
-| bar.host   | premium   | $4,687.50 | —             | high           | low    | 3      | name.com           |
-| fond.host  | available | $4.99     | $109.99       | high           | low    | 4      | namesilo           |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| ague.host  | available | $9.99     | $47.48        | low            | low    | 4      | namecheap                                           |
+| opal.host  | resell    | $47.48    | —             | medium         | low    | 4      | DNSPod, Inc.                                        |
+| aaa.host   | premium   | $4,875    | $9,750        | high           | medium | 3      | namecheap                                           |
+| Audi.host  | available | $47.48    | —             | high           | high   | 4      | namecheap                                           |
+| fast.host  | resell    | —         | —             | high           | medium | 4      | Namify Domains Inc                                  |
+| abo.host   | premium   | $312.50   | $625          | low            | low    | 3      | name.com                                            |
+| auld.host  | available | $4.99     | $109.99       | low            | low    | 4      | namesilo                                            |
+| safe.host  | resell    | —         | —             | high           | medium | 4      | Namify Domains Inc                                  |
+| ace.host   | premium   | $1,875    | $3,750        | high           | medium | 3      | name.com                                            |
+| avon.host  | available | $4.99     | $109.99       | high           | low    | 4      | namesilo                                            |
+| teal.host  | resell    | —         | —             | high           | low    | 4      | Porkbun LLC                                         |
+| add.host   | premium   | $1,875    | —             | high           | low    | 3      | name.com                                            |
+| daft.host  | available | $4.99     | $109.99       | low            | low    | 4      | namesilo                                            |
+| arena.host | resell    | —         | —             | high           | medium | 5      | Porkbun LLC                                         |
+| art.host   | premium   | $4,875    | $9,750        | high           | medium | 3      | namecheap                                           |
+| flew.host  | available | $4.99     | $109.99       | high           | low    | 4      | namesilo                                            |
+| cheap.host | resell    | —         | —             | high           | low    | 5      | Namify Domains Inc                                  |
+| bar.host   | premium   | $4,687.50 | —             | high           | low    | 3      | name.com                                            |
+| fond.host  | available | $4.99     | $109.99       | high           | low    | 4      | namesilo                                            |
+| maths.host | resell    | —         | —             | high           | low    | 5      | Chengdu West Dimension Digital Technology Co., Ltd. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOST One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOST One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
