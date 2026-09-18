@@ -1,7 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-699c2d47-d86e-4288-8b6f-d8361c1c6ee8,chips.host,premium,312.5,,high,low,5,name.com,,,
+699c2d47-d86e-4288-8b6f-d8361c1c6ee8,chips.host,premium,640,640,high,low,5,namesilo,,,17/09/2026 10:35
 27c8a30d-feda-49fd-b566-6dd7c9f7c4d4,lindsay.host,premium,312.5,,high,low,7,name.com,,,
-269cea3b-e8b1-4e16-92b7-c35a22277395,over.host,premium,625,1250,high,low,4,name.com,,,
+269cea3b-e8b1-4e16-92b7-c35a22277395,over.host,premium,1107,1107,high,low,4,namesilo,,,17/09/2026 10:19
 e1e12c42-3914-4996-9515-6928049841ee,sexslave.host,available,47.48,,medium,low,9,namecheap,,,
 f60fdec2-d4a9-47e0-8484-9704bb899f2e,hattrick.host,available,4.99,109.99,high,low,9,namesilo,,,
 e8755a96-d662-4572-a2db-fb672faea0c0,antsy.host,available,4.99,109.99,low,low,5,namesilo,,,05/08/2026 20:27
