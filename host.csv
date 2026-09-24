@@ -15,7 +15,7 @@ d9df3ded-767f-4565-a2f0-fe315b42dd30,moldy.host,available,4.99,109.99,medium,low
 d2b6306f-2227-4489-b478-1a65665826aa,aids.host,available,,,medium,low,4,,,,
 ecfda905-9263-48e8-a6c3-e52c0c654dad,publication.host,available,4.99,109.99,medium,low,11,namesilo,,,
 a01fdf99-fe52-4d1c-a5f4-54b533f9b1bc,sacked.host,available,4.99,109.99,medium,low,6,namesilo,,,
-d336e671-d058-4248-abdb-7984d5caf2f9,continued.host,available,4.99,109.99,high,low,9,namesilo,,,
+d336e671-d058-4248-abdb-7984d5caf2f9,continued.host,available,9.99,47.48,medium,low,9,namecheap,,,23/09/2026 22:14
 2aaa69c3-1acd-421f-b0ce-9689086b12d8,hecksno.host,available,4.99,109.99,medium,low,8,namesilo,,,
 c9243728-01e7-49ea-b30d-841275301ee2,goodday.host,available,4.99,109.99,high,low,8,namesilo,,,
 3d2accd4-b814-46b9-885b-a2bba3c9b1b5,play.host,premium,4687.5,,high,medium,4,name.com,,,
@@ -113,8 +113,8 @@ f9d89699-14de-4bf2-8215-d54877eeeaad,accusing.host,available,4.99,109.99,low,low
 a319c4f1-757e-4ae7-9a08-d4222d4463f1,soup.host,premium,312.5,,high,low,4,name.com,,,
 280b2b3b-906f-4acc-b722-4bc9f2a071ef,sestet.host,available,4.99,109.99,low,low,6,namesilo,,,
 8c693da8-6a62-4616-8696-13dce9a74b57,spellingword.host,available,4.99,109.99,medium,low,13,namesilo,,,
-f7bb371b-3302-4476-9027-99fdaa5791d2,bright.host,premium,312.5,,high,low,6,name.com,,,
-56f70fae-63c6-4908-a264-c1d10c610228,distribution.host,premium,325,650,low,low,12,namecheap,,,19/09/2026 09:11
+f7bb371b-3302-4476-9027-99fdaa5791d2,bright.host,premium,640,640,medium,low,6,namesilo,,,23/09/2026 09:27
+56f70fae-63c6-4908-a264-c1d10c610228,distribution.host,premium,640,640,medium,low,12,namesilo,,,23/09/2026 07:20
 4f022ea8-a015-4fc0-b497-3e41fba891a1,mat.host,premium,312.5,625,medium,low,3,name.com,,,08/09/2026 07:48
 8012dc47-763f-4a84-833c-6beb3a182849,banner.host,premium,312.5,625,low,low,6,name.com,,,08/08/2026 13:53
 be95687d-f6e4-4dce-abf0-11dcc323c1c5,respectively.host,available,4.99,109.99,medium,low,12,namesilo,,,
@@ -190,7 +190,7 @@ b4ce663d-9595-4007-be37-f32b1a2165f1,howdoyedo.host,available,4.99,109.99,medium
 547cbc7c-7164-429a-82e7-87bf0bfc4590,feminism.host,available,4.99,109.99,medium,low,8,namesilo,,,
 133f54bd-bf93-4a56-a960-e8274005a314,add.host,premium,1875,,high,low,3,name.com,,,
 db15b567-f055-420d-b5fc-b987fb0ac0a7,cook.host,premium,625,,high,low,4,name.com,,,
-cdf9fa3c-17e4-446a-bb5b-68b30b7dc2f6,chip.host,premium,3125,6250,high,low,4,name.com,,,
+cdf9fa3c-17e4-446a-bb5b-68b30b7dc2f6,chip.host,premium,3250,6500,medium,low,4,namecheap,,,24/09/2026 01:56
 cc8cbf3a-ae71-4d78-b7a8-6c81ba38857d,butterflykeyboard.host,available,4.99,109.99,high,low,18,namesilo,,,
 76bbd198-96b4-4cd6-916a-9f10473b79ee,fifteen.host,available,4.99,109.99,medium,low,7,namesilo,,,21/09/2026 11:44
 b2ffcb3c-8b10-4ced-8f9d-53ee17ed6d48,bilious.host,available,4.99,109.99,low,low,7,namesilo,,,07/08/2026 14:09
@@ -258,7 +258,7 @@ c6b15380-9080-461c-8730-8aa8c2e2c87c,speedlimit.host,available,4.99,109.99,mediu
 5bc21fd6-2919-48de-8cdc-abfe92db2e3f,racing.host,premium,312.5,,high,low,6,name.com,,,
 068b4740-0113-4bef-b106-0df5310f286f,abovethefold.host,available,4.99,109.99,low,low,14,namesilo,,,
 e895452e-bb63-411e-828a-8dd56f5a7ece,atthebank.host,available,4.99,109.99,high,low,11,namesilo,,,
-ff3f88be-e91f-4020-922f-a00c40483726,inherent.host,available,4.99,109.99,medium,low,8,namesilo,,,
+ff3f88be-e91f-4020-922f-a00c40483726,inherent.host,available,4.99,109.99,low,low,8,namesilo,,,23/09/2026 10:30
 6ebf4043-2d42-4508-b1db-50c8a36f598b,possibly.host,available,47.48,,medium,low,8,namecheap,,,
 68d0c34b-a330-4d60-9898-5c92c0d8e09d,amorous.host,available,4.99,109.99,low,low,7,namesilo,,,22/09/2026 03:25
 4d43e63e-cd07-4eb2-a3c1-46dc5c8e8fe6,intercultural.host,available,4.99,109.99,high,low,13,namesilo,,,
@@ -352,16 +352,16 @@ b66bccf3-ecb5-4041-8077-8aa797584d87,when.host,available,4.99,109.99,high,low,4,
 0c403144-3aa9-4f44-b04a-aa34c4483cf8,ways.host,premium,3125,,high,low,4,name.com,,,
 784191d1-fb8a-4c89-95ab-3a5594bead02,campaign.host,premium,625,,high,low,8,name.com,,,
 bfca1e85-c3bd-4563-96db-c4b2d682d8aa,aeronautic.host,available,4.99,109.99,low,low,10,namesilo,,,
-e20daad8-51d9-4bdd-80cf-75a4a4e14fd2,opposite.host,available,4.99,109.99,high,low,8,namesilo,,,
+e20daad8-51d9-4bdd-80cf-75a4a4e14fd2,opposite.host,available,4.99,109.99,low,low,8,namesilo,,,23/09/2026 22:35
 3c6c13a3-edb0-476e-b62f-7bedac7cf836,aphyllous.host,available,4.99,109.99,low,low,9,namesilo,,,05/08/2026 23:42
 dfb4a077-75db-456c-80b4-8cbf1ac5ca0c,passion.host,premium,3125,,high,low,7,name.com,,,
 5bc6c970-ba6c-4d15-a17a-35387a1b034a,evacuate.host,available,4.99,109.99,medium,low,8,namesilo,,,
 8f73c818-8ea0-468f-b322-044e0768f52d,carefully.host,available,4.99,109.99,medium,low,9,namesilo,,,
 667d7727-cc98-4941-a9cb-03ccbb1d99c5,californiakilowatt.host,available,4.99,109.99,high,low,19,namesilo,,,
-f4835415-c724-4861-bc86-f5bc25856879,comforted.host,available,4.99,109.99,high,low,9,namesilo,,,
+f4835415-c724-4861-bc86-f5bc25856879,comforted.host,available,9.99,47.48,medium,low,9,namecheap,,,23/09/2026 15:14
 f738236d-f8b1-46d6-aa47-2c0df8f2b644,aerobic.host,available,9.99,47.48,medium,low,7,namecheap,,,21/09/2026 21:01
 17b3dd57-3bb0-4cfe-9b01-afdf24151f17,suspend.host,available,4.99,109.99,high,low,7,namesilo,,,
-d02b128e-ee59-4a1b-986b-ca727350c93d,custom.host,premium,325,650,medium,low,6,namecheap,,,20/09/2026 02:48
+d02b128e-ee59-4a1b-986b-ca727350c93d,custom.host,premium,640,640,medium,low,6,namesilo,,,23/09/2026 10:51
 08b81167-34a0-46e6-86fd-ba86f9997878,dime.host,premium,312.5,,medium,low,4,name.com,,,
 d8fdecaf-601c-400d-a4c1-0ff41d027314,wordplay.host,available,4.99,109.99,medium,low,9,namesilo,,,
 b66abca4-1961-477e-9559-95941bee2ac4,hybrid.host,premium,1875,,high,low,6,name.com,,,
@@ -372,7 +372,7 @@ dd95ab9b-01d0-46af-9892-acd73249cdc5,charactertrait.host,available,4.99,109.99,h
 63912368-0ec6-4449-bd73-37e3417a4fc2,progress.host,premium,1950,3900,medium,low,8,namecheap,,,21/09/2026 20:19
 10ff3157-473a-4483-9ecd-c1abe9857283,eyesight.host,available,4.99,109.99,medium,low,9,namesilo,,,
 c2589e6a-6774-449a-afcc-4d0c3e651f69,saddletree.host,available,47.48,,low,low,11,namecheap,,,
-2403f52e-6c33-4ba4-a0a6-e86fdcdb43d8,screen.host,premium,640,640,low,low,6,namesilo,,,19/09/2026 13:37
+2403f52e-6c33-4ba4-a0a6-e86fdcdb43d8,screen.host,premium,640,640,low,low,6,namesilo,,,23/09/2026 16:32
 cf064581-bb75-4cb8-b9b6-8103128a79f2,nearly.host,available,4.99,109.99,high,low,6,namesilo,,,
 56925ec2-e1a8-4e64-877c-e24a112a8aa5,ternion.host,available,4.99,109.99,low,low,7,namesilo,,,
 10bb0065-1322-41b5-bd48-9bf1d22d219c,tend.host,available,47.48,,high,low,4,namecheap,,,
@@ -383,8 +383,8 @@ cf064581-bb75-4cb8-b9b6-8103128a79f2,nearly.host,available,4.99,109.99,high,low,
 fd77506a-9f64-4a0d-ba5e-0b55b5de48a6,laborious.host,available,4.99,109.99,low,low,9,namesilo,,,06/08/2026 17:00
 8a00eb34-ffb1-491a-9da1-4a222535bf92,astern.host,available,4.99,109.99,low,low,6,namesilo,,,
 fd31debf-3d15-44f4-aa7d-ec3a6af29453,long.host,premium,312.5,,high,low,4,name.com,,,
-ba452f6c-2744-49d1-877a-7746a83a0d72,comedian.host,available,4.99,109.99,high,low,8,namesilo,,,
-93ab3aba-3cd3-4f94-b95b-960f35779b60,large.host,premium,640,640,medium,low,5,namesilo,,,19/09/2026 10:18
+ba452f6c-2744-49d1-877a-7746a83a0d72,comedian.host,available,4.99,109.99,medium,low,8,namesilo,,,23/09/2026 15:26
+93ab3aba-3cd3-4f94-b95b-960f35779b60,large.host,premium,640,640,medium,low,5,namesilo,,,23/09/2026 09:13
 8da543df-3970-406b-8398-8f30aeb44253,means.host,available,47.48,,high,low,5,namecheap,,,
 35d9c25f-f32e-454d-8c71-9958baadc69b,stuffy.host,available,4.99,109.99,low,low,6,namesilo,,,
 49882898-edf9-4aa7-9218-5d7e60d2c871,flexing.host,available,47.48,,high,low,7,namecheap,,,
@@ -433,7 +433,7 @@ e630d6f3-c872-48b3-b3fb-7afb017f82e4,whose.host,available,4.99,109.99,high,low,5
 78a49a61-7097-4918-b90c-fabae81e9c0d,inthat.host,available,4.99,109.99,medium,low,7,namesilo,,,
 c53c1a86-f240-4497-89bb-c13fadcd6f8b,depend.host,premium,312.5,,high,low,6,name.com,,,
 a87da75b-cf5a-47ff-b29f-e3ccefde46a1,defence.host,premium,312.5,,high,low,7,name.com,,,
-9bb70222-8e9c-4b82-91bd-9cbb977df3e2,corporate.host,premium,312.5,,high,low,9,name.com,,,
+9bb70222-8e9c-4b82-91bd-9cbb977df3e2,corporate.host,premium,640,640,medium,low,9,namesilo,,,23/09/2026 06:11
 9ce3a130-94b6-4c3a-87a7-3ae4c17f9eaf,bow.host,premium,325,650,medium,low,3,namecheap,,,23/09/2026 01:50
 08af8bd7-821e-4b2d-90b1-c20f724ca3e2,mentalillness.host,available,4.99,109.99,medium,low,14,namesilo,,,
 701ae4bb-331d-440c-a475-e3c677b8b89e,implied.host,available,4.99,109.99,high,low,7,namesilo,,,
@@ -472,7 +472,7 @@ fbc74b6e-1bd1-4f20-bbbc-7eb30b9952d9,rulesisrules.host,available,47.48,,medium,l
 cf82c6ff-8ef2-4d3c-8012-381d0d8c70f6,superstar.host,premium,325,650,medium,low,9,namecheap,,,21/09/2026 17:56
 f6a29505-568b-4e2c-88c0-fa4f8f2cd743,registered.host,premium,625,,medium,low,10,name.com,,,
 11422c58-67b5-4cae-aa2a-d927fe630da8,amino.host,available,9.99,47.48,low,low,5,namecheap,,,
-70adb0fb-3613-41b5-ba91-8204679b82d0,comparable.host,available,4.99,109.99,high,low,10,namesilo,,,
+70adb0fb-3613-41b5-ba91-8204679b82d0,comparable.host,available,4.99,109.99,medium,low,10,namesilo,,,23/09/2026 16:34
 c5f23765-7d00-4caf-a406-e78f629f706a,two.host,premium,1107,1107,medium,low,3,namesilo,,,21/09/2026 12:14
 8add8c84-5afc-402e-b9bc-0ae1a5a6d071,lxiii.host,available,4.99,109.99,low,low,5,namesilo,,,
 4001ad2e-e3af-4b5a-8367-418836008385,hub.host,premium,4687.5,,high,medium,3,name.com,,,
@@ -523,7 +523,7 @@ ae6e2798-a9a7-4de3-abb2-934f04957e9c,ammino.host,available,4.99,109.99,low,low,6
 1e58a59d-e12f-4a91-bb66-0a12baadf869,gorgeous.host,available,4.99,109.99,high,low,8,namesilo,,,
 ee27970d-c4f3-4a15-a459-136bbdaa8677,artglass.host,available,4.99,109.99,medium,low,9,namesilo,,,
 ed54a8c9-4282-4742-9bc3-2718bbd61398,usa.host,premium,4687.5,,high,medium,3,name.com,,,
-3152d714-c8b9-4814-910b-c846f89e4938,built.host,premium,625,,high,low,5,name.com,,,
+3152d714-c8b9-4814-910b-c846f89e4938,built.host,premium,1107,1107,medium,low,5,namesilo,,,23/09/2026 10:20
 16a8ba24-79b2-472c-a181-f8e4a53c6882,peaking.host,available,4.99,109.99,high,low,7,namesilo,,,
 e5e74b8f-1451-4273-88e0-63d2dbf8a94d,vegetable.host,available,4.99,109.99,high,low,9,namesilo,,,
 2d1bc159-992e-4949-a4c1-f1238f355b50,atbottom.host,available,4.99,109.99,medium,low,9,namesilo,,,
@@ -556,7 +556,6 @@ e38c1f38-1670-4870-a9b5-8a17b53912f4,distance.host,available,4.99,109.99,high,lo
 0e073953-c257-4732-ae23-a7d610c860ca,panes.host,available,4.99,109.99,medium,low,5,namesilo,,,
 50fd61cc-ba89-4829-95da-9c963237d531,countryoforigin.host,available,4.99,109.99,medium,low,17,namesilo,,,
 a0e35ea8-d4e0-4a56-8aee-80433fc8b119,retina.host,premium,312.5,,high,low,6,name.com,,,
-fff6a310-9860-4905-a538-0450a3b90ecc,experiment.host,available,,,high,low,10,,,,
 c97fa6b0-ba60-465f-8653-d4036de67818,discriminating.host,available,4.99,109.99,medium,low,14,namesilo,,,
 a280b5cd-98a5-41b1-8b60-a03e9ea18bf8,lowlying.host,available,4.99,109.99,medium,low,9,namesilo,,,
 36e7fa82-23bc-426f-9ef0-4fef79a7596c,foodcourt.host,available,4.99,109.99,high,low,10,namesilo,,,
@@ -568,7 +567,7 @@ c12c673d-b9e2-420a-827f-9568fcf7fa87,readfor.host,available,4.99,109.99,low,low,
 cb49dfbc-f2e3-4ec7-bf66-c91c44a3fadd,scientist.host,available,4.99,109.99,high,low,9,namesilo,,,
 35c83328-1990-4266-835b-2947fd01a496,friendship.host,premium,312.5,,high,low,10,name.com,,,
 433277a4-88d2-4878-8ab6-e80dae6db263,airfreshener.host,available,4.99,109.99,high,low,13,namesilo,,,
-4b001e35-0338-4a10-ab97-af101d092bc7,cheap.host,resell,,,high,low,5,Namify Domains Inc,02/04/2019 13:52,02/04/2029 23:59,
+4b001e35-0338-4a10-ab97-af101d092bc7,cheap.host,resell,,,medium,low,5,Namify Domains Inc,02/04/2019 13:52,02/04/2029 23:59,23/09/2026 11:03
 4ea971ae-db27-4d94-8cd2-96cdc5e3d4b8,givethanks.host,available,4.99,109.99,medium,low,11,namesilo,,,
 fb42ea2f-a9da-454a-9216-5cd4018f3763,aftuh.host,available,4.99,109.99,medium,low,5,namesilo,,,
 1f502b72-41e2-4c8e-a51c-b7f31d25967c,limo.host,premium,625,,high,low,4,name.com,,,
@@ -587,7 +586,7 @@ b78ccc45-94d3-4677-9539-6777d73abb7f,restinpeace.host,available,4.99,109.99,low,
 cdb13623-a79c-4eae-a744-213099cba534,adjuvant.host,available,4.99,109.99,low,low,8,namesilo,,,
 26334d75-7cb6-405d-a755-aa39fc03b14c,flew.host,available,4.99,109.99,high,low,4,namesilo,,,
 89416049-2b7a-4015-9990-27bfdc8ee225,violated.host,available,4.99,109.99,medium,low,8,namesilo,,,
-874a9b01-15c1-4dcd-968f-deeea7fda3b8,near.host,premium,312.5,,medium,low,4,name.com,,,
+874a9b01-15c1-4dcd-968f-deeea7fda3b8,near.host,premium,640,640,low,low,4,namesilo,,,23/09/2026 13:54
 dbf452c5-042a-46bc-b773-dba83127a0ae,atwork.host,available,4.99,109.99,high,low,7,namesilo,,,
 6e91fbd1-1dc8-468c-8677-62e49485a1cd,routine.host,available,47.48,,high,low,7,namecheap,,,
 623052fa-1da4-44e7-9811-0724d2deb7ec,teal.host,resell,,,medium,low,4,Porkbun LLC,12/09/2025 09:48,12/09/2027 23:59,22/09/2026 23:03
@@ -614,7 +613,7 @@ f1a0f238-959c-4eac-950d-8616123019df,injure.host,available,4.99,109.99,medium,lo
 8fbeead0-dd86-4f5d-b96d-bed91c067a57,backhand.host,available,4.99,109.99,low,low,8,namesilo,,,08/08/2026 05:43
 251cd78a-e99d-41da-ab34-99bef37558ad,atthisjuncture.host,available,4.99,109.99,low,low,16,namesilo,,,08/09/2026 14:44
 a900a32a-529a-4fe8-804b-db79d3a8760c,same.host,premium,312.5,,high,low,4,name.com,,,
-ae74be5d-1a8a-43fd-ba9c-84307c3d5ccf,comic.host,premium,1875,,high,low,5,name.com,,,
+ae74be5d-1a8a-43fd-ba9c-84307c3d5ccf,comic.host,premium,4140,4140,medium,low,5,namesilo,,,23/09/2026 15:15
 e4720c6d-d82c-43bb-8cfe-6d5951b116a8,ohio.host,premium,625,,high,low,4,name.com,,,
 0eed7b05-1574-4f8d-8898-5623b4d7c65c,mouthless.host,available,4.99,109.99,low,low,9,namesilo,,,07/08/2026 09:50
 9bfd1310-291b-4428-996a-7e5bd4d8f2ab,addictive.host,available,9.99,47.48,medium,low,9,namecheap,,,21/09/2026 17:08
@@ -646,11 +645,11 @@ b3400974-b50c-4be4-b3d6-3bdbd23bb5fb,aboveabit.host,available,4.99,109.99,low,lo
 a2119212-f4f3-4064-9ece-e1271043d3a5,pacific.host,premium,312.5,,high,low,7,name.com,,,
 22901aef-6bea-4d83-a69d-8f1b52b3b95a,stock.host,premium,325,650,medium,medium,5,namecheap,,,
 d09b59fa-bf65-4213-91ba-0bd7d211fa3f,coloured.host,available,9.99,47.48,low,low,8,namecheap,,,22/09/2026 20:29
-c603aeea-0971-442f-80a7-4aea93d4a644,contingent.host,available,4.99,109.99,high,low,10,namesilo,,,
-c7e54f7e-7476-4abc-a378-22684a75ca9b,efficient.host,premium,312.5,625,high,low,9,name.com,,,
+c603aeea-0971-442f-80a7-4aea93d4a644,contingent.host,available,4.99,109.99,low,low,10,namesilo,,,23/09/2026 22:07
+c7e54f7e-7476-4abc-a378-22684a75ca9b,efficient.host,premium,640,640,medium,low,9,namesilo,,,23/09/2026 05:33
 79eb66bc-14a8-4b7b-a354-3ecb7a97e52c,yes.host,premium,10350,10350,high,medium,3,namesilo,,,21/09/2026 07:58
 1406e9cb-c747-467c-8884-f8cbc701b757,masters.host,premium,1875,,high,low,7,name.com,,,
-34e0d11f-74b0-40b1-8945-1f9b49c8d7fb,coding.host,premium,312.5,,high,low,6,name.com,,,
+34e0d11f-74b0-40b1-8945-1f9b49c8d7fb,coding.host,premium,325,650,medium,low,6,namecheap,,,23/09/2026 08:39
 7f01537d-dd3f-4667-ac98-e4e3280825f0,majorleague.host,available,47.48,,high,low,12,namecheap,,,
 2c0dfe81-cb9f-4cc7-adc0-ea37340a4350,admittible.host,available,4.99,109.99,low,low,10,namesilo,,,
 fe5b68e5-b3ba-4e35-b3cf-c98070f66f16,keytothecity.host,available,4.99,109.99,high,low,15,namesilo,,,
@@ -681,12 +680,12 @@ e2823294-c8ea-4bc2-9552-ef299ed5749f,allweathertyre.host,available,4.99,109.99,h
 adeb0b16-8336-4064-8af4-dce61ddf84e1,oxford.host,premium,3125,,medium,low,6,name.com,,,
 870e61ad-e9fd-4608-ba0a-8a3724a5bbd5,climbable.host,available,4.99,109.99,medium,low,9,namesilo,,,07/08/2026 00:10
 a10e5748-dce6-42ec-bdc4-cddd3e574e17,haveotherideas.host,available,4.99,109.99,medium,low,16,namesilo,,,
-331fd75a-c08a-4eca-8741-eb3cad39db24,rotten.host,available,4.99,109.99,medium,low,6,namesilo,,,
+331fd75a-c08a-4eca-8741-eb3cad39db24,rotten.host,available,134.99,134.99,low,low,6,name.com,,,24/09/2026 01:35
 d84461ca-e17f-4a64-b970-172501742551,therebe.host,available,4.99,109.99,low,low,8,namesilo,,,
 e8d35b07-9e7e-47da-9486-d8d94481c494,invite.host,premium,312.5,,high,low,6,name.com,,,
 359dee7d-59d0-49a3-bfbc-321d275e1524,safe.host,resell,,,high,medium,4,Namify Domains Inc,16/02/2021 19:42,16/02/2029 23:59,
 220eeb21-2e5c-434c-a391-3d4f05244cdd,barelegged.host,available,9.99,47.48,low,low,10,namecheap,,,08/08/2026 19:15
-1b1bcc91-8445-404b-a57d-7e29575b5734,confirmed.host,available,4.99,109.99,medium,low,9,namesilo,,,
+1b1bcc91-8445-404b-a57d-7e29575b5734,confirmed.host,available,9.99,47.48,medium,low,9,namecheap,,,23/09/2026 19:53
 52adbbee-50eb-4c78-b25c-8e8985e5ab89,acaudal.host,available,4.99,109.99,low,low,7,namesilo,,,
 9047b410-9bbe-4042-8f68-eaa53d016dae,becauseof.host,available,4.99,109.99,medium,low,10,namesilo,,,
 ef7bff46-03c2-480d-a48c-7481eafd7e72,eighter.host,available,4.99,109.99,low,low,7,namesilo,,,
@@ -761,7 +760,7 @@ aff60744-4dc2-4ef1-b5d5-bd6b5d0eadaa,amitotic.host,available,4.99,109.99,low,low
 0707e604-7d2f-4fd8-ac83-33d0bb6645a3,trumpian.host,available,4.99,109.99,high,low,8,namesilo,,,
 3a58ade1-6de9-450f-ba67-f113239396e3,fine.host,premium,640,640,medium,low,4,namesilo,,,22/09/2026 01:03
 a090283c-955c-4f46-91d6-650bfc3cfbc2,located.host,available,4.99,109.99,medium,low,7,namesilo,,,
-cfac315d-ce6d-47a6-9bee-b7e686d76d86,health.host,premium,325,650,medium,low,6,namecheap,,,19/09/2026 10:54
+cfac315d-ce6d-47a6-9bee-b7e686d76d86,health.host,premium,640,640,medium,low,6,namesilo,,,23/09/2026 08:29
 81deb4cf-24aa-470e-a012-715e1aa2a105,technicality.host,available,4.99,109.99,low,low,12,namesilo,,,
 6a52dd63-6d67-4fbf-846c-aa16165ca3f3,antithetic.host,available,4.99,109.99,low,low,10,namesilo,,,05/08/2026 19:49
 faa40d1e-25f0-4c92-bff8-2b9faea3c175,quitea.host,available,4.99,109.99,medium,low,7,namesilo,,,
@@ -772,9 +771,9 @@ ae7f18e5-0043-4a7a-bea0-1c26e733cbfe,grandson.host,available,47.48,,high,low,8,n
 a290232a-57f2-4104-8b00-0dfcbe68181a,bareass.host,available,9.99,47.48,low,low,8,namecheap,,,08/08/2026 18:10
 01321dad-262e-4b53-bc2f-263225c3b8ee,apopemptic.host,available,4.99,109.99,low,low,10,namesilo,,,06/08/2026 02:22
 85c4f90c-a804-4c35-8db8-d179e634005f,doublecheck.host,available,4.99,109.99,high,low,12,namesilo,,,
-5fa3df15-b0cd-4aa2-8021-752f81d94d6d,computer.host,premium,3250,6500,medium,low,8,namecheap,,,19/09/2026 07:18
+5fa3df15-b0cd-4aa2-8021-752f81d94d6d,computer.host,premium,6900,6900,medium,low,8,namesilo,,,23/09/2026 09:10
 b516d495-d95b-4658-9040-15c4bb5b3aa7,opposable.host,available,4.99,109.99,low,low,9,namesilo,,,06/08/2026 07:43
-24110d84-8654-4eef-a939-c3435c125e8e,careful.host,available,4.99,109.99,high,low,7,namesilo,,,
+24110d84-8654-4eef-a939-c3435c125e8e,careful.host,available,4.99,109.99,medium,low,7,namesilo,,,23/09/2026 12:50
 362e5200-91e0-49e2-bb39-d03926eb2039,make.host,premium,312.5,,high,medium,4,name.com,,,
 c8b0da7b-9c88-415a-92a4-4510484b9e75,addible.host,available,4.99,109.99,low,low,7,namesilo,,,
 007676ec-aec7-4130-bd9f-c16ba46c9399,meddle.host,available,4.99,109.99,medium,low,6,namesilo,,,
@@ -831,12 +830,12 @@ a0391ec3-fbd2-4cb8-9d1b-a6459cd804b1,heavy.host,premium,312.5,625,medium,low,5,n
 f71c0679-d27e-475a-88aa-c561661740bc,copewith.host,available,4.99,109.99,high,low,9,namesilo,,,
 c0d40a56-1ddf-4ea1-b4fb-2ab168776c10,hungry.host,available,4.99,109.99,high,low,6,namesilo,,,
 a2df0237-9d11-400a-97b1-00531397fa67,prototypic.host,available,4.99,109.99,low,low,10,namesilo,,,06/08/2026 15:42
-cd024d09-b703-418a-bb05-eef64b74a8e3,relief.host,available,9.99,47.48,medium,low,6,namecheap,,,19/09/2026 08:39
+cd024d09-b703-418a-bb05-eef64b74a8e3,relief.host,available,4.99,109.99,medium,low,6,namesilo,,,23/09/2026 07:06
 aa087b4d-baf8-4c00-8854-108162b26c4e,generators.host,available,4.99,109.99,medium,low,10,namesilo,,,
 2c7fc572-d6ca-45fc-876f-d7335c5296a0,asquint.host,available,4.99,109.99,low,low,7,namesilo,,,07/08/2026 03:10
 41a73939-d995-422e-bfca-3703db835ba1,bawdy.host,available,4.99,109.99,low,low,5,namesilo,,,09/08/2026 02:05
 f0a19173-9bb9-4734-9e68-1bba1788c38a,exercising.host,available,4.99,109.99,high,low,10,namesilo,,,
-eb99fe83-6e3b-4ce0-8392-cf634b48ba1a,appointment.host,available,47.48,,high,low,11,namecheap,,,
+eb99fe83-6e3b-4ce0-8392-cf634b48ba1a,appointment.host,available,9.99,47.48,medium,low,11,namecheap,,,24/09/2026 03:38
 cf171339-8347-4032-8600-e487cfdd25be,toeachhisown.host,available,47.48,,medium,low,15,namecheap,,,
 7241a700-6531-4cbe-a456-2b6c5b95ea7d,field.host,premium,312.5,,medium,low,5,name.com,,,
 644d1aea-ca54-4bde-a24c-07f1e96087be,detestable.host,available,4.99,109.99,low,low,10,namesilo,,,
@@ -845,9 +844,9 @@ cf171339-8347-4032-8600-e487cfdd25be,toeachhisown.host,available,47.48,,medium,l
 47c15a8e-ad77-4cad-bbfa-dfb5def38ce3,footballhooliganism.host,available,4.99,109.99,medium,low,20,namesilo,,,
 e007ac4c-f8cf-491e-bfde-549138b91fe8,panoramic.host,available,9.99,47.48,medium,low,9,namecheap,,,22/09/2026 21:06
 83a42166-19b7-416c-8be1-5c665f9721fe,amidships.host,available,4.99,109.99,low,low,9,namesilo,,,
-60d69770-2f0e-40ea-9e66-5c152a686a64,cool.host,premium,4687.5,9375,high,low,4,name.com,,,
+60d69770-2f0e-40ea-9e66-5c152a686a64,cool.host,premium,10350,10350,medium,low,4,namesilo,,,23/09/2026 23:02
 fb88085e-340c-4a81-ad61-0e9e0821f812,about.host,premium,10350,10350,medium,low,5,namesilo,,,21/09/2026 14:03
-7bb4a97c-c0dd-4cbd-8a56-874cd6e0af84,continual.host,available,4.99,109.99,medium,low,9,namesilo,,,
+7bb4a97c-c0dd-4cbd-8a56-874cd6e0af84,continual.host,available,4.99,109.99,low,low,9,namesilo,,,23/09/2026 22:10
 fe50b233-b3eb-4095-85c4-a528cf0e0049,different.host,premium,312.5,625,high,low,9,name.com,,,
 10357a5b-4add-418c-bb15-b075d25f3851,anarchic.host,available,4.99,109.99,low,low,8,namesilo,,,
 6e24dc28-9ecb-4aa6-832d-c4c9137826f3,eddie.host,premium,312.5,,high,low,5,name.com,,,
@@ -895,7 +894,7 @@ df83c74b-5aaf-4a27-9b96-6939c618c64f,apodal.host,available,4.99,109.99,low,low,6
 736e394a-4a71-4ba6-9aaa-d96f3567ccaa,piss.host,available,4.99,109.99,high,low,4,namesilo,,,
 46869e53-d373-436d-97e0-33fb373cfecb,veteran.host,available,4.99,109.99,high,low,7,namesilo,,,
 d021842a-04c5-4355-9db9-e89ef0481335,balance.host,premium,312.5,,high,low,7,name.com,,,
-00b5f18f-2353-45da-b7dc-2616cf9ca53e,statement.host,available,4.99,109.99,high,low,9,namesilo,,,
+00b5f18f-2353-45da-b7dc-2616cf9ca53e,statement.host,available,9.99,47.48,low,low,9,namecheap,,,23/09/2026 08:02
 9eb94400-3565-4244-8670-6e34616bf811,pleasure.host,premium,312.5,,high,low,8,name.com,,,
 ef603f45-9084-42f2-9e9f-4a5cf5c07463,weight.host,premium,325,650,medium,low,6,namecheap,,,19/09/2026 19:07
 2013bdc7-6919-4413-bba1-bf40f02ca67c,cordial.host,available,9.99,47.48,medium,low,7,namecheap,,,21/09/2026 21:39
@@ -916,8 +915,8 @@ ae01a8c2-e939-480b-a59f-9c2da9f2f785,wet.host,premium,325,650,medium,low,3,namec
 b03f5fc2-c734-4a14-86b3-c2a195f7bb15,onemoment.host,available,4.99,109.99,high,low,10,namesilo,,,
 c8d82727-ab76-41e7-ac61-f050895ce299,howdoyoumean.host,available,4.99,109.99,medium,low,15,namesilo,,,
 57619601-0a86-419a-88f2-27050f3bfae6,gaffer.host,available,4.99,109.99,low,low,6,namesilo,,,
-24a9cda6-5731-4a44-95f2-7f8c7cc0b448,clever.host,premium,312.5,,high,low,6,name.com,,,
-412d47d9-4f2c-47ce-851b-17f0702a45ed,system.host,premium,4140,4140,medium,low,6,namesilo,,,19/09/2026 08:26
+24a9cda6-5731-4a44-95f2-7f8c7cc0b448,clever.host,premium,640,640,medium,low,6,namesilo,,,23/09/2026 12:20
+412d47d9-4f2c-47ce-851b-17f0702a45ed,system.host,premium,4140,4140,medium,low,6,namesilo,,,23/09/2026 06:54
 a8b9c793-9bfd-4cf3-ba6d-6fd5aeb255ff,nitrous.host,available,4.99,109.99,low,low,7,namesilo,,,08/08/2026 03:03
 6478fb19-3e35-4c5b-8321-80dfe666b4b4,fix.host,premium,3125,,medium,low,3,name.com,,,
 db470f93-4262-4bb3-a931-d78c83b5cb05,autoerotic.host,available,9.99,47.48,low,low,10,namecheap,,,07/08/2026 20:01
@@ -925,13 +924,13 @@ d03c8837-7888-4db3-b52d-595cfca02faa,ohmyfuck.host,available,47.48,,medium,low,1
 705d6849-afe3-42d6-8f04-45f93a377552,nomnomnom.host,available,4.99,109.99,high,low,11,namesilo,,,
 f80abd6f-00d2-4fc7-a33d-df225db45bbc,alpestrine.host,available,4.99,109.99,low,low,10,namesilo,,,
 07bb9292-0a62-41a3-a708-8042c820fc0b,rednoseday.host,available,4.99,109.99,low,low,12,namesilo,,,
-875f6948-dde9-4796-95a2-c0b33a287e61,complex.host,premium,312.5,625,high,low,7,name.com,,,
+875f6948-dde9-4796-95a2-c0b33a287e61,complex.host,premium,325,650,medium,low,7,namecheap,,,23/09/2026 17:35
 ff9ed541-26fb-4002-b3fe-5b29f043ade5,lxxviii.host,available,9.99,47.48,low,low,7,namecheap,,,
 1b7fe667-6db3-47f3-b4d1-fab6c84f7209,spanish.host,premium,4687.5,,medium,low,7,name.com,,,
 66f9d24f-5d01-4294-9ef1-e0c86037162e,butthen.host,available,4.99,109.99,medium,low,8,namesilo,,,
 3870352d-f78f-44eb-b336-d5377a2ba7eb,xlvi.host,available,4.99,109.99,low,low,4,namesilo,,,
 520f9bef-b1f4-4198-85c6-5ef7060142ef,dynamic.host,premium,4687.5,9375,high,low,7,name.com,,,
-31a588f1-9047-4d30-98ac-b12014257dbd,commercial.host,premium,1107,1107,medium,low,10,namesilo,,,19/09/2026 10:28
+31a588f1-9047-4d30-98ac-b12014257dbd,commercial.host,premium,650,1300,medium,low,10,namecheap,,,23/09/2026 07:53
 3df00248-6c46-43ee-bb41-251594d204d0,getthewordout.host,available,4.99,109.99,high,low,16,namesilo,,,
 7bd4a557-b422-4d1f-ae4a-db9e8c226aa7,fullgrown.host,available,4.99,109.99,low,low,10,namesilo,,,
 4b8cc623-9629-4671-808a-60620297eb86,threadbare.host,available,4.99,109.99,low,low,10,namesilo,,,08/08/2026 11:10
@@ -999,3 +998,4 @@ b29061d7-d08c-4cff-ba35-641d3980d1c0,reminder.host,premium,312.5,,medium,low,8,n
 4a175b33-9d38-48bd-b692-e76592a126a5,disrespect.host,available,4.99,109.99,high,low,10,namesilo,,,
 5e8c9348-3deb-40a9-ada2-afb78448ab45,siberian.host,available,4.99,109.99,high,low,8,namesilo,,,
 c12776cb-af9b-481c-99c1-c67ea7e05945,salad.host,available,4.99,109.99,high,low,5,namesilo,,,
+0cafc9b0-13bc-4c05-9507-cd5407bb8566,attheriskof.host,available,47.48,,medium,low,14,namecheap,,,
