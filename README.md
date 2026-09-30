@@ -1,10 +1,10 @@
-# Available .HOST One-Word Domains (25,811)
+# Available .HOST One-Word Domains (27,994)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C811%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C994%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .host one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **25,811 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **27,994 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 25,811 domains · **Median ask:** $238.94 · **High-demand under $2,500:** 80
+**Public extract:** 1,000 rows · **Live catalog:** 27,994 domains · **Median ask:** $233.67 · **High-demand under $2,500:** 91
 
-**Last updated:** 2026-09-29
+**Last updated:** 2026-09-30
 **Canonical page:** `https://unique.domains/domains/tld/host`
 **Best for:** founders, investors, studios
 
@@ -66,24 +66,24 @@ print(df.head())
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------ |
 | afar.host    | available | $4.99     | $109.99       | medium         | low    | 4      | namesilo           |
 | managed.host | resell    | —         | —             | high           | low    | 7      | Namify Domains Inc |
-| aga.host     | premium   | $325      | $650          | high           | low    | 3      | namecheap          |
+| aca.host     | premium   | $640      | $640          | high           | low    | 3      | namesilo           |
 | agee.host    | available | $4.99     | $109.99       | medium         | low    | 4      | namesilo           |
-| ago.host     | premium   | $640      | $640          | high           | low    | 3      | namesilo           |
+| aga.host     | premium   | $325      | $650          | high           | low    | 3      | namecheap          |
 | amyl.host    | available | $4.99     | $109.99       | medium         | low    | 4      | namesilo           |
+| ago.host     | premium   | $640      | $640          | high           | low    | 3      | namesilo           |
+| babu.host    | available | $9.99     | $47.48        | high           | low    | 4      | namecheap          |
 | amc.host     | premium   | $650      | $1,300        | high           | medium | 3      | namecheap          |
-| babu.host    | available | $9.99     | $47.48        | medium         | low    | 4      | namecheap          |
-| ana.host     | premium   | $312.50   | —             | high           | low    | 3      | name.com           |
 | bmus.host    | available | $4.99     | $109.99       | medium         | low    | 4      | namesilo           |
-| asl.host     | premium   | $325      | $650          | high           | low    | 3      | namecheap          |
-| clef.host    | available | $4.99     | $109.99       | medium         | low    | 4      | namesilo           |
-| aus.host     | premium   | $2,587.70 | $5,175.20     | high           | low    | 3      | spaceship          |
+| amr.host     | premium   | $275      | $550          | high           | low    | 3      | dynadot            |
 | damp.host    | available | $134.99   | $134.99       | medium         | low    | 4      | name.com           |
-| bai.host     | premium   | $325      | $650          | high           | low    | 3      | namecheap          |
+| ana.host     | premium   | $312.50   | —             | high           | low    | 3      | name.com           |
 | dias.host    | available | $4.99     | $109.99       | high           | low    | 4      | namesilo           |
-| bjp.host     | premium   | $312.50   | —             | high           | low    | 3      | name.com           |
-| erst.host    | available | $4.99     | $109.99       | medium         | low    | 4      | namesilo           |
-| bop.host     | premium   | $640      | $640          | high           | low    | 3      | namesilo           |
+| asl.host     | premium   | $325      | $650          | high           | low    | 3      | namecheap          |
 | flew.host    | available | $4.99     | $109.99       | high           | low    | 4      | namesilo           |
+| aus.host     | premium   | $2,587.70 | $5,175.20     | high           | low    | 3      | spaceship          |
+| gogh.host    | available | $4.63     | $81.87        | medium         | low    | 4      | porkbun            |
+| bai.host     | premium   | $325      | $650          | high           | low    | 3      | namecheap          |
+| goya.host    | available | $79.20    | $79.20        | high           | low    | 4      | cloudflare         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 25,811 live domains                        |
+| 1,000-row public sample | 27,994 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 80 high-demand names under $2,500          |
+| Basic exported fields   | 91 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOST One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOST One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
